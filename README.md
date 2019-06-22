@@ -1,4 +1,4 @@
-# Furniture-Data-API-JSON-Simplest at <a href='https://getrit.com'>getrit.com</a>
+# Furniture-Data-API-JSON-Simplest
 The API is designed on a demo base for a furniture store repository which provides furniture store data against a token and name of the furniture store
 The API is developed on C# and json. The great thing in this api is that it very simple to use and edit. You will learn how to provide any type of data via api in seconds.
 Prerequisites: Visual Studio 4.0 and above
